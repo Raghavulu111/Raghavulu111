@@ -1,13 +1,3 @@
-- 👋 Hi, I’m Raghavulu(Raghav)
-- 👀 I’m interested in Seeking For full time Entry Level position ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Raghavulu111/Raghavulu111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Raghavulu</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
