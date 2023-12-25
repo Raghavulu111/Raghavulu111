@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Devops tools, Cloud**
 
-- 💬 Ask me about **Java, Spring boot**
+- 💬 Ask me about **Java, Spring boot, Hybernate**
 
 - 📫 How to reach me **Raghavulu779@gmail.com**
 
